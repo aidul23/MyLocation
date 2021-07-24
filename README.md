@@ -4,6 +4,7 @@ This project I fetch the user phone location using FusedLocationProviderClient, 
 AndroidManifest
 
 uses-permission android:name="android.permission.INTERNET"
+
 uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"
 
 Build.Gradle
